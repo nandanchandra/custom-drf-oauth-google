@@ -1,0 +1,6 @@
+django==3.2.14
+djangorestframework==3.13.1
+django-cors-headers==3.13.0
+google-auth
+gunicorn
+whitenoise
